@@ -1,0 +1,1 @@
+{"rustc":18294140696443704520,"features":"[\"default\"]","target":14123478400658042508,"profile":8568081267110557927,"path":8457468968405398332,"deps":[[4117749705314174326,"build_script_build",false,1729490287454539970]],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/bitflags-284c385bbdfb1577/dep-lib-bitflags"}}],"rustflags":[],"metadata":14564035643000669268}

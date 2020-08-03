@@ -1,0 +1,13 @@
+/Users/nn/rustlings/target/release/deps/memchr-54eafa5744ca0ae1.rmeta: /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/lib.rs /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/fallback.rs /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/iter.rs /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/naive.rs /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/x86/mod.rs /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/x86/avx.rs /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/x86/sse2.rs
+
+/Users/nn/rustlings/target/release/deps/libmemchr-54eafa5744ca0ae1.rlib: /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/lib.rs /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/fallback.rs /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/iter.rs /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/naive.rs /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/x86/mod.rs /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/x86/avx.rs /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/x86/sse2.rs
+
+/Users/nn/rustlings/target/release/deps/memchr-54eafa5744ca0ae1.d: /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/lib.rs /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/fallback.rs /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/iter.rs /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/naive.rs /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/x86/mod.rs /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/x86/avx.rs /Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/x86/sse2.rs
+
+/Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/lib.rs:
+/Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/fallback.rs:
+/Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/iter.rs:
+/Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/naive.rs:
+/Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/x86/mod.rs:
+/Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/x86/avx.rs:
+/Users/nn/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.3/src/x86/sse2.rs:
