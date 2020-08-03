@@ -15,7 +15,7 @@ Link to the original repository where you can start Rustling:
 ### Getting started
 
 - Clone the repo and `cd` to it
-- Run `cargo install`
+- Run `cargo install --force --path .`
 - Run `rustlings verify`
 
 All tests will pass and there won't be anything left to do, but this is just a repository that can serve as a reference, to help other people get past the struggle of some exercises.
