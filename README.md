@@ -1,6 +1,6 @@
 # Rustlings 🦀❤️
 
-Here you can find solutions for the rustling exercises. 
+Here you can find solutions for the rustlings exercises. 
 When I took these, they were on tag v4.0.0. Since exercises get updates, you may not find the solutions to the new exercises in this repo.
 
 Link to the original repository where you can start Rustling:
